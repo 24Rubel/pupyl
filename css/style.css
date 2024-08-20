@@ -1,0 +1,156 @@
+/**************************
+ 		Global CSS
+***************************/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a,
+a:hover {
+	font-family: "Open Sans", sans-serif;
+	text-decoration: none !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Open Sans", sans-serif;
+}
+
+body {
+	font-family: "Open Sans", sans-serif;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+.container {
+	width: 1140px;
+}
+
+/*******************************
+Top Nav section css code start
+********************************/
+.top-nav-section {
+	background: #212121;
+}
+
+.top-nav {
+	padding: 15px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.top-content {
+	color: white;
+	padding-right: 30px;
+}
+
+.devider{
+	margin-right: 30px;
+	width: 1px;
+    height: 15px;
+    background: white;
+}
+/*******************************
+Top Nav section css code end
+********************************/
+
+
+
+/********************************
+Navbar section css code start
+*********************************/
+.nav-section {
+	background: #fffcf5;
+}
+
+.navbar {
+	padding: 10px 0px !important;
+	display: block !important;
+}
+
+.manu-site {
+	display: flex;
+	justify-content: center;
+	padding-top: 15px;
+}
+
+.manu-site a {
+	padding: 10px 20px;
+	color: black;
+	font-size: 16px;
+	font-weight: 400;
+	transition: 0.5s;
+}
+
+.manu-site a:hover {
+	color: #8e4ffe;
+	transition: 0.5s;
+}
+
+.dropdown {
+	padding-top: 10px;
+}
+
+.dropdown ul {
+	padding: 0;
+	border-radius: 0;
+}
+
+.dropdown ul li {
+	background: #fff;
+	color: #579dfe;
+}
+
+.dropdown ul li a {
+	color: #000000;
+}
+
+.btn-site {
+	display: flex;
+	padding-top: 15px;
+	justify-content: flex-end;
+}
+
+.nav-btn {
+	padding: 10px 25px;
+	background: transparent;
+	border: 1px solid black;
+	border-radius: 30px;
+	color: #000;
+	transition: .5s;
+}
+
+.nav-btn:hover {
+	background: #8e4ffe;
+	border: 1px solid #8e4ffe;
+	color: #ffffff !important;
+	transition: .5s;
+}
+
+/********************************
+Navbar section css code end
+*********************************/
+
+
+
+
+
+
+
+
+
+
+/*************Md Rubel Gazi*************/
